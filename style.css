@@ -1,4 +1,4 @@
-h1{
+h1 {
     color: blue;
     font: bold;
     text-align: center;
@@ -13,4 +13,20 @@ p, span {
 #niggers {
     color: brown;
     font: bolder;
+}
+
+li {
+    list-style: none;
+}
+
+li a {
+    text-decoration: none;
+    background-color: cadetblue;
+    border: 1px solid blueviolet;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: aquamarine;
 }
