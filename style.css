@@ -24,6 +24,10 @@ li a {
     background-color: cadetblue;
     border: 1px solid blueviolet;
     color: black;
+    display: block;
+    width: 150px;
+    margin-bottom: 1px;
+    text-align: center;
 }
 
 a {
