@@ -1,2 +1,1 @@
-# coursera-test
-Coursera Test Repo
+This Is My Test Repository For Everything I Learn In Web Development :)
